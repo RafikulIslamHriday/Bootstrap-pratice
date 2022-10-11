@@ -1,0 +1,9 @@
+.tiger{
+    max-width: 500px;
+    height: auto;
+    margin-bottom: 50px; 
+}
+.card{
+    box-shadow: 5px 4px 10px gray;
+}
+ 
