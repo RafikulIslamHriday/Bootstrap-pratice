@@ -21,6 +21,15 @@
     margin: 100px;
 }
 
+#navbar{
+    background-color: rgb(139, 206, 228);
+}
+
+#logoimg{
+     
+    border-radius: 50%;
+    padding: 0%;
+}
  
 
 #navlogo{
