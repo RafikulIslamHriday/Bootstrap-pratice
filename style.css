@@ -50,4 +50,15 @@
 #nav2{
     color:black;
 }
+
+/* grid code start */
+
+.row div{
+    background-color: palevioletred;
+    margin: 5px;
+    padding: 5px;
+}
  
+#carouslid{
+    height: 300px;
+}
